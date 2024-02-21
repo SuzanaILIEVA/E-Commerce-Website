@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-Responsive E-Commerce Website was created.
+Responsive E-Commerce Website Project was created.
 
 # Languages
 -HTML
